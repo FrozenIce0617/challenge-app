@@ -44,5 +44,5 @@ Build the app with `yarn ios` or `yarn android` based on device.
 
 ### Additional Scripts
 
-- `yarn lint` - Cehck `ESLint` warning and errors
+- `yarn lint` - Check `ESLint` warning and errors
 - `yarn podinstall` - Install all CocoaPods inside `ios` project
